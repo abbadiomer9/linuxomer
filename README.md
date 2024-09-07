@@ -11,8 +11,8 @@ This repository represents the author's accumulated knowledge about Linux, gathe
 
 To organize the notes from easiest to hardest, we'll start with fundamental concepts and progress towards more advanced topics. Here is the suggested order:
 
-- [Introduction to Linux](https://github.com/djeada/Linux/blob/main/notes/introduction.md)
-- [Commands](https://github.com/djeada/Linux/blob/main/notes/commands.md)
+- [Introduction to Linux](https://github.com/abbadiomer9/linuxomer/blob/main/notes/introduction.md)
+- [Commands](https://github.com/abbadiomer9/linuxomer/blob/main/notes/commands.md)
 - [Files and directories](https://github.com/djeada/Linux/blob/main/notes/files_and_dirs.md)
 - [Shells and their configuration](https://github.com/djeada/Linux/blob/main/notes/shells_and_bash_configuration.md)
 - [File system](https://github.com/djeada/Linux/blob/main/notes/file_system.md)
